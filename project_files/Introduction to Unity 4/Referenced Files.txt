@@ -1,0 +1,1 @@
+In order to keep the project files size low, we removed the Reference Files folder. All assets used in this course can be easily copied from the Assets folder in the Unity Files folder. We apologize for any inconvenience this may cause.
